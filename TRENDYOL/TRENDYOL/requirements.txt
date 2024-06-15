@@ -1,0 +1,4 @@
+colorama
+selenium
+webdriver_manager
+ChromeDriverManager
